@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huygens123
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me Twitter @Huygens_Oh
 
 <!---
